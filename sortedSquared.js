@@ -30,7 +30,7 @@ function sortedSquaredArray(array) {
   return sortedSq;
 }
 
-//Another way to do it in o(n^2)T &o(n)S
+//Another way to do it in o(n^2)T & o(n)S
 function sortedSquaredArray(array) {
   // Write your code here.
   const res = [];
