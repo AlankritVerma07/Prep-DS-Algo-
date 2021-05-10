@@ -3,5 +3,5 @@
 ### Questions🧐
 
 | #   | Title                                                                         | Solution                                                                           | Difficulty |
-| --- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------- | --- |
-| 001 | [3sum](https://github.com/AlankritVerma07/Prep-DS-Algo-/blob/master/3sum.txt) | [JavaScript](https://github.com/AlankritVerma07/Prep-DS-Algo-/blob/master/3sum.js) | EASY       |     |
+| --- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------- |
+| 01  | [3sum](https://github.com/AlankritVerma07/Prep-DS-Algo-/blob/master/3sum.txt) | [JavaScript](https://github.com/AlankritVerma07/Prep-DS-Algo-/blob/master/3sum.js) | EASY       |
